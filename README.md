@@ -6,3 +6,6 @@
 ###### A sixth-level heading
 
 **我是註記嗎？**
+git config --global user.name "Kochung Lin 林可中"
+git config --global user.email "kl30822.python@gmail.com"
+新增這行 22:24:00
